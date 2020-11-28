@@ -1,2 +1,6 @@
-# goalkicker.book
-pdf book downloader from goalkicker.com
+```
+$ pkg install nodejs && git
+$ git clone https://github.com/Aditia_Dtz/goalkicker.book
+$ npm i
+$ node goalkick.js
+```
