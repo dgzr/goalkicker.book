@@ -1,0 +1,20 @@
+{
+  "name": "goalkicker.book",
+  "version": "1.0.0",
+  "description": "``` $ pkg install nodejs && git $ git clone https://github.com/Aditia_Dtz/goalkicker.book $ npm i $ node goalkick.js ```",
+  "main": "goalkick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditia-Dtz/goalkicker.book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditia-Dtz/goalkicker.book/issues"
+  },
+  "homepage": "https://github.com/Aditia-Dtz/goalkicker.book#readme"
+}
